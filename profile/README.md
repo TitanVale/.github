@@ -1,12 +1,13 @@
-## Hi there 👋
+## Hello there 👋
+![](https://komarev.com/ghpvc/?username=TitanVale&color=01b92a)
 
-<!--
+#### 💡 About this organization
+---
+This is offical GitHub organization of TitanVale minecraft server 😊. Currently most of repositories here are private, but maybe someday something public will show up here 🤔
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+#### 📫 Contact and Links
+---
+✨ [Discord](https://discord.titanvale.net/)<br>
+🐦 [Twitter](https://twitter.titanvale.net/)<br>
+😉 [Facebook](https://facebook.titanvale.net/)<br>
+📧 E-Mail - contact@titanvale.net
